@@ -1,0 +1,16 @@
+/*================*/
+/*-- scss:rules --*/
+/*================*/
+
+h2::after {
+    content:'';
+    position: absolute;/**/
+    display: block;/**/
+    overflow: hidden;
+    width: 200%;
+    border: $borderthickness solid $body-color;
+    border-radius:2px;
+    transform: translate(-25%, $hrulerY);
+}
+
+

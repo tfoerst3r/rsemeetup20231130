@@ -1,0 +1,181 @@
+---
+title: RSE Meetup 
+subtitle: <img src="./images/announcement_web.svg" style="width:70%;"/>
+author: RSE Team
+date: 2023-11-30
+date-format: DD.MM.YYYY
+institute: FWCC @ HZDR
+format:
+  revealjs:
+    theme: ./custom/themes/default.scss
+    transition: none
+    transition-speed: fast
+    slide-number: c
+    width: 1920
+    heigth: 1080
+    show-notes: false
+    html-math-method: katex
+    toc: false
+    menu: false
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    citation-hover: true
+    footnote-hover: true
+bibliography: ./ref.bib
+logo: ./custom/images/logo_HZDR.svg
+footer: <a href=https://events.hifis.net/category/123/>RSE Meetup 30.11.2023 @ HZDR</a>
+---
+
+
+## Agenda 
+
+::: notes
+  - A warm welcome the RSE Meetup 
+  - Today I give you the stage and we are talking about your challenges regarding software challenges
+- Today's topic is centered around Your challenges in software development
+- My name is Thomas Foerster and I am a member of FWCC
+- If you have not done so I kindly ask to get a name label
+- 4 parts
+- 
+- Afterwards 4 colleagues give us a brief insight in there SE challenges.
+- We will split up in the 4 respective groups depending on the 
+:::
+
+:::::: columns
+::: {.column width=35%}
+
+::: blue
+Welcome (10')
+:::
+
+::: blue
+Pitch Talks (20')
+:::
+
+::: blue
+Group Discussion (20')
+:::
+
+::: blue
+Summary and Closing (10')
+:::
+:::
+
+::: column
+![](./images/agenda.svg){style="width: 80%; margin-left: 10vw;"}
+:::
+::::::
+
+
+## Check In -- What did you do prior to this meeting?
+
+::: {.lightblue .middle style="width:100%;"}
+- Group up in pairs of two (somebody unknown to you)
+  
+  ![](./images/grouping.gif){style="margin-left:20%;"}
+
+- Introduce yourself
+- Tell your counterpart in 2 min what you have been doing prior to this meeting.
+:::
+
+## Short Lightning Talks 
+
+::: middle
+
+- **Collaborative Graph Data Editing** (5')
+  
+  ::: small
+  > `Speaker: Leon Steinmeier`
+  :::
+
+- **There is no excuse why your software is not running on CPU and GPU!** (5')
+  
+  ::: small
+  > `Speaker: Rene Widera`
+  :::
+
+- **Testing a Library that Supports Different Target Architectures with GitLab CI** (5')
+  
+  ::: small
+  > `Speaker: Simeon Ehrig`
+  :::
+
+- **Searching for a memory leak** (5')
+  
+  ::: small
+  > `Speaker: Jörn Dreyer`
+  :::
+:::
+
+## Discussion (15 min)
+
+::: notes
+- Now find the topic you are interested in 
+- 15 min group discussion
+- Afterwards I want that someone summarize what had been discussed.
+- Maybe deicide on the speaker in beforehand
+:::
+
+::: {.lightblue .middle style="width:100%;"}
+- Split up in groups (one for each talk)
+- Talk about the challenges in there respective projects.
+
+    ![](./images/discussion.gif){style="margin-left:20%; width:30%;"}
+
+- Each group should summarize your discussion (~1..2 min)
+- Everybody. What is your take away in <u>one</u> sentence?
+:::
+
+## What is next?
+
+:::::: columns
+
+::: column
+::: centered
+![[Link to the survey](https://events.hifis.net/category/123/)](./images/qr-survey.svg){width=60%}
+:::
+:::
+
+::: column
+
+- There is one more event scheduled on the 25.01.2024 (see [https://events.hifis.net/category/123/](https://events.hifis.net/category/123/))
+    
+- Two questions need to be answered 
+
+    - Do you want to keep to the 2 month cycle?
+    - Do you have any suggestion regarding content/style/structure?
+
+:::
+
+::::::
+
+
+
+## 
+
+::: notes
+- Thank
+- If you want to become active in RSE
+- stay for a couple of minutes
+:::
+
+:::::: columns
+::: column
+::: biggest
+Thank you.
+:::
+
+<br>
+
+::: big
+Want to get active, let's have a talk after the meeting.
+:::
+:::
+
+::: column
+![](./images/thank-you.svg)
+:::
+::::::
+
