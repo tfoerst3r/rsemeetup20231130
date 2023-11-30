@@ -134,7 +134,7 @@ Summary and Closing (10')
 
 ::: column
 ::: centered
-![[Link to the survey](https://events.hifis.net/category/123/)](./images/qr-survey.svg){width=60%}
+![[Link to the survey](https://events.hifis.net/event/827/surveys/254?token=4fa89c32-b4ce-412c-beac-1e380c83954c)](./images/qr-survey.svg){width=60%}
 :::
 :::
 
