@@ -25,7 +25,7 @@ format:
     footnote-hover: true
 bibliography: ./ref.bib
 logo: ./custom/images/logo_HZDR.svg
-footer: <a href=https://events.hifis.net/category/123/>RSE Meetup 30.11.2023 @ HZDR</a>
+footer: "RSE Meetup 30.11.2023 @ HZDR -- Eventlink: [https://events.hifis.net/e/rse-at-hzdr](https://events.hifis.net/e/rse-at-hzdr)"
 ---
 
 
@@ -163,19 +163,20 @@ Summary and Closing (10')
 
 :::::: columns
 ::: column
-::: biggest
-Thank you.
-:::
 
-<br>
-
-::: big
-Want to get active, let's have a talk after the meeting.
+::: centered
+![[Link to the survey](https://events.hifis.net/event/827/surveys/254?token=4fa89c32-b4ce-412c-beac-1e380c83954c)](./images/qr-survey.svg){width=60%}
 :::
 :::
 
 ::: column
+::: biggest
+Thank you.
+:::
 ![](./images/thank-you.svg)
+
+Want to get active, let's have a talk after the meeting.
+
 :::
 ::::::
 
